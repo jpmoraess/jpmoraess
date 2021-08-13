@@ -9,5 +9,5 @@
 
 
 <div style="display: inline_block">
-   <img align="center" alt="jpmoraess-Java" height="30" width="40" src="https://rw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg"/>
+   <img align="center" alt="jpmoraess-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg"/>
 </div>  
