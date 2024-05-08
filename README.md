@@ -1,4 +1,4 @@
-### Olá, Eu sou o João Pedro Moraes ✌
+### Hello, I'm João Pedro ✌
 
 <div>
   <a href="https://github.com/jpmoraess">
