@@ -1,8 +1,10 @@
 ### Hello, I'm João Pedro ✌
 
-I’m an experienced backend developer, passionate about solving complex problems with clean and efficient code. Java and Spring Framework are my go-to tools, but recently, I’ve been diving into Kotlin and even exploring Golang to keep my skills sharp and up-to-date.
+Experienced Backend Developer passionate about building clean, efficient, and scalable solutions. I specialize in Java and the Spring ecosystem, and have recently expanded my expertise with Kotlin and Golang to stay current with modern development trends.
 
-I’m always focused on building reliable, scalable systems and designing APIs that truly make life easier for both developers and users. Whether I’m optimizing systems, solving tricky problems, or exploring new technologies, I’m always ready for the next challenge.
+I thrive on solving complex problems, designing intuitive and robust APIs, and creating systems that are both reliable and maintainable. I value code quality, performance, and architecture, and I'm constantly exploring new technologies and approaches to improve my work.
+
+Driven by challenges, I enjoy working on high-impact systems, contributing to business goals through well-structured, resilient backend services.
 
 <div>
   <a href="https://github.com/jpmoraess">
